@@ -23,6 +23,9 @@ This approach has several steps, which are dealt with by a series of functions, 
 - Present the data and analysis
 
 **Performannce analysis**
+Present the corrected reference (lab image)
+
+
 
 _Check quality of lab based correction_
 
