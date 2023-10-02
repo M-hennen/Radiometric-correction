@@ -25,9 +25,11 @@ This approach has several steps, which are dealt with by a series of functions, 
 **Performannce analysis**
 
 _Check quality of lab based correction_
+
 Check how the variance has changed in the reference (lab) based image using the satandard deveiation, with a lower standdarad deviation (while maintaining the same mean) the target. This will be demonstrated with a narrower peak (lower variance) about the mean in the histogram.
 
 _Check spatial consistency of corrected image with variagram_
+
 Perform spatial variagram to to ensure that the same spatial characteristics (structure) are preserved before and after correction, using a random selection of points within the image.
 
 Three variograms are presented, before, after and the difference, each using the same coordinates
